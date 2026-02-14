@@ -7,7 +7,7 @@ The application uses in-memory storage (ArrayList) and supports adding and retri
 ---
 
 ## 🚀 Tech Stack
-- Java 17+
+- Java 21
 - Spring Boot
 - Maven
 - Lombok
